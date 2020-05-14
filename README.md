@@ -16,4 +16,4 @@ Files are used as following:
 - [Glowforge-proofed pdf](https://github.com/Ornythoma/StressRelief/blob/master/stress_relief_glowforge.pdf)  
    Parameters for 0.8mm PP: First red, speed 300, full power. Then black, speed 500, power 50%. Finally blue, speed 300, full power.  
 
-License CC-BY-SA
+License CC-BY-SA-NC
